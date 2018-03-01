@@ -1,0 +1,20 @@
+- id: Brand
+  translation: "MFLAB"
+
+- id: Home 
+  translation: "Home"
+
+- id: Work 
+  translation: "Work"
+
+- id: Testimonials 
+  translation: "Testimonials"
+
+- id: Services 
+  translation: "Services"
+
+- id: About 
+  translation: "About"
+
+- id: Contact 
+  translation: "Contact"
