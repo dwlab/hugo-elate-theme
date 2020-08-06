@@ -1,5 +1,36 @@
 - id: Home
-  translation: "首頁"
+  translation: "介紹"
 
 - id: Work
   translation: "專案"
+
+- id: Work 
+  translation: "專案計畫"
+
+- id: Testimonials 
+  translation: "Testimonials"
+
+- id: Services 
+  translation: "研究領域"
+
+- id: About 
+  translation: "About"
+
+- id: About 
+  translation: "成員"
+
+- id: Contact 
+  translation: "聯絡我們"
+
+- id: hero-title
+  translation: "大型資料分析與倉儲實驗室"
+
+- id: hero-subtitle
+  translation: "本實驗室由蔡孟峰教授指導，為一技術發展與應用並重之實驗室。在發展本實驗室持有之核心技術之同時，也注重各種技術應用於不同領域之可能性。"
+
+# Contact
+- id: contact-title
+  translation: "聯絡資訊"
+  
+- id: contact-address
+  translation: "中央大學工程五館 A309"

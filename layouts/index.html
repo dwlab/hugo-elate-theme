@@ -30,6 +30,10 @@
         	{{ partial "about.html" .}}
 		{{ end }}
 
+		<!-- {{ if .Site.Params.members.enable }}
+			{{ partial "members.html" .}}
+		{{ end }} -->
+
 		{{ if .Site.Params.counters.enable }}
         	{{ partial "counters.html" .}}
         {{ end }}

@@ -1,0 +1,11 @@
+.member-card:nth-child(n+4) {
+  margin-top: 120px;
+}
+
+.member-card>div {
+  height: 360px;
+}
+
+.member-card>div>p {
+  min-height: 90px;
+}
